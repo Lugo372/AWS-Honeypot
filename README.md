@@ -1,2 +1,3 @@
 # AWS-Honeypot
-documentation and screenshots of ongoing AWS honeypot
+Documentation and screenshots of ongoing AWS honeypot project
+
